@@ -2,5 +2,6 @@
     "sonarlint.connectedMode.project": {
         "connectionId": "vnlvi2k3",
         "projectKey": "vnlvi2k3_AIO"
-    }
+    },
+    "python.pythonPath": "C:\\ProgramData\\anaconda3\\pygame_env\\python.exe",
 }
